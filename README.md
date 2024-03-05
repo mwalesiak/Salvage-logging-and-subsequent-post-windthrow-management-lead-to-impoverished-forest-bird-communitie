@@ -1,5 +1,5 @@
-# Post-windthrow-forest-management-alters-the-successional-pathways-of-bird-communities
-R code for the publication "Post-windthrow forest management alters the successional pathways of bird communities in a temperate pine forest"
+# Salvage logging and subsequent post-windthrow management lead to impoverished forest bird communities for two decades
+R code for the publication "Salvage logging and subsequent post-windthrow management lead to impoverished forest bird communities for two decades"
 
 
 All graphics created with the code were later modified using CorelDRAW (and tables were modified using excel) - therefore do not expect exact same graphics in code output and the publication.
